@@ -50,7 +50,6 @@ You can find it in /unmarked`
 00000878.jpg  
 00001145.jpg  
 00001248.jpg
-<<<<<<< HEAD
 '''
 
 The weight of YOLO_v2 airborne detection:
