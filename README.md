@@ -57,5 +57,7 @@ https://www.dropbox.com/s/9uhcg7ajmhxpbs5/yolov2-vedai_60000.weights?dl=0
 
 
 
-![raw_image](unmarked/00000024.jpg)
+![detection](experimental_result/predictions_028.jpg)
 ![detection](experimental_result/predictions_024.jpg)
+![detection](experimental_result/predictions_034.jpg)
+![detection](experimental_result/predictions_878.jpg)
