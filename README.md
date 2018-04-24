@@ -13,7 +13,7 @@ All annotations are standartized to `<object-class> <x> <y> <width> <height>`, w
 
 ## Classes:  
 
-```
+'''
 0 - car  
 1 - truck  
 2 - pickup  
@@ -26,12 +26,12 @@ All annotations are standartized to `<object-class> <x> <y> <width> <height>`, w
 9 - other  
 10 - small  
 11 - large  
-```  
+'''  
 
 ## List of excluded images  
-You can find it in `/unmarked`
+You can find it in /unmarked`
 
-```
+'''
 00000024.jpg  
 00000039.jpg  
 00000522.jpg  
@@ -50,4 +50,10 @@ You can find it in `/unmarked`
 00000878.jpg  
 00001145.jpg  
 00001248.jpg
-```
+'''
+
+The weight of YOLO_v2 airborne detection:
+https://www.dropbox.com/s/9uhcg7ajmhxpbs5/yolov2-vedai_60000.weights?dl=0
+
+![raw_image](unmarked/00000024.jpg)
+![detection](experimental_result/predictions_024.jpg)
