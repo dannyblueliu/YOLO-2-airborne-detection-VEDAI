@@ -29,7 +29,7 @@ All annotations are standartized to `<object-class> <x> <y> <width> <height>`, w
 '''  
 
 ## List of excluded images  
-You can find it in /unmarked`
+You can find it in /unmarked/
 
 '''
 00000024.jpg  
