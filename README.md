@@ -54,3 +54,4 @@ You can find it in `/unmarked`
 
 
 ![raw_image](unmarked/00000024.jpg)
+![detection](experimental_result/predictions_024.jpg)
