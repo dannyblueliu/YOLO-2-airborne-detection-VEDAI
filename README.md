@@ -53,4 +53,4 @@ You can find it in `/unmarked`
 ```
 
 
-![unmarked/00000024.jpg](unmarked/00000024.jpg)
+![raw_image](unmarked/00000024.jpg)
