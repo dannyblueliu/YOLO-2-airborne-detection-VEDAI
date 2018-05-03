@@ -52,7 +52,7 @@ You can find it in /unmarked/
 The weight of YOLO_v2 airborne detection:
 https://www.dropbox.com/s/oo2uis4442by3f1/yolov2-vedai_UCAS_final.weights?dl=0
 
-
+./darknet detect cfg/yolov2-vedai.cfg yolov2-vedai_UCAS_final.weights data/train/unmarked/00000024.jpg
 
 ![detection](experimental_result/predictions_028.jpg)
 ![detection](experimental_result/predictions_024.jpg)
