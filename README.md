@@ -50,7 +50,7 @@ You can find it in /unmarked/
 00001248.jpg
 
 The weight of YOLO_v2 airborne detection:
-https://www.dropbox.com/s/9uhcg7ajmhxpbs5/yolov2-vedai_60000.weights?dl=0
+https://www.dropbox.com/s/oo2uis4442by3f1/yolov2-vedai_ustc_final.weights?dl=0
 
 
 
